@@ -1,0 +1,26 @@
+{
+  "name": "expense-tracker-react",
+  "version": "1.0.0",
+  "description": "Backend for expense tracker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SolomanGarcia/expense-tracker-react.git"
+  },
+  "author": "Soloman Garcia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SolomanGarcia/expense-tracker-react/issues"
+  },
+  "homepage": "https://github.com/SolomanGarcia/expense-tracker-react#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.2",
+    "morgan": "^1.9.1"
+  }
+}
